@@ -21,7 +21,7 @@
         android:id="@+id/logo_name"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:fontFamily="@font/bungee_inline"
+        android:fontFamily="@font/bungee"
         android:text="HELLO THERE WELCOME BACK!"
         android:transitionName="logo_text"
         android:textSize="40sp"
