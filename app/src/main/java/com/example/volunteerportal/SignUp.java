@@ -50,7 +50,6 @@ public class SignUp extends AppCompatActivity {
 
                 UserHelperClass helperClass = new UserHelperClass(username,email,phoneNo,password);
                 reference.child(phoneNo).setValue(helperClass);
-
             }
         });
 
